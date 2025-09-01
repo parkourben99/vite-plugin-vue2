@@ -1,6 +1,6 @@
 {
   "name": "@benjamin9911/plugin-vue2",
-  "version": "2.3.3",
+  "version": "2.4.0",
   "license": "MIT",
   "author": "Evan You",
   "packageManager": "pnpm@7.33.5",
